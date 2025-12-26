@@ -1,136 +1,155 @@
-MetroScore Privacy Policy
+SmartScore - Sheet Music Privacy Policy
 
-Effective Date: XX, 2025
-Last Updated: XX, 2025
+Effective Date: December 26, 2025
+Last Updated: December 26, 2025
 
-SmartScore - Sheet Music (hereinafter referred to as “the App”) is independently developed and operated by an individual developer, Roger Wang.
-This Privacy Policy explains how the App handles user information, what system permissions are used, and the rights of users.
+SmartScore – Sheet Music (hereinafter referred to as “the App”) is independently developed and operated by an individual developer, Roger Wang.
 
-MetroScore is a mobile utility application designed for sheet music reading (PDF), sheet music scanning, and metronome playback.
-The App is committed to processing only the minimum information necessary to provide its core functionality.
+This Privacy Policy explains how the App handles user data, system permissions, and privacy-related practices.
 
 ⸻
 
-1. We Do Not Collect Any Personally Identifiable Information
+1. Overview
 
-While using the App:
-	•	❌ We do not collect, store, or upload any personal information
-	•	❌ We do not require user accounts
-	•	❌ We do not collect contact information, device identifiers (such as IDFA), location data, or contacts
-	•	❌ We do not perform behavior analysis or advertising tracking
+SmartScore is a mobile utility application designed for:
+	•	Reading and managing sheet music (PDF)
+	•	Scanning sheet music using the device camera
+	•	Providing a built-in metronome
+	•	Annotating and practicing musical scores
+	•	Synchronizing user content across devices using iCloud (optional)
 
-All processing is performed entirely on the user’s device.
-
-⸻
-
-2. We Do Not Upload Any Data to Servers
-	•	The App does not include any cloud services
-	•	The App does not require an internet connection to function (unless the user manually enables network access)
-	•	All sheet music files, scanned images, and metronome settings are stored locally on the device only
-	•	The developer of the App cannot access any user files or usage data
+The App is designed to process only the minimum data required to provide its core functionality.
 
 ⸻
 
-3. Explanation of App Permissions
+2. No Personal Data Collection
 
-To provide relevant functionality, the App may request the following system permissions:
+The App does not collect, store, or sell personal information.
 
-3.1 Camera
+Specifically:
+	•	❌ No user accounts are required
+	•	❌ No personal identifiers are collected (such as name, email, IDFA, or device identifiers)
+	•	❌ No location data is collected
+	•	❌ No contact lists, photos, or files are accessed without explicit user action
+	•	❌ No behavioral tracking or profiling is performed
+
+All core features operate without requiring any personal information.
+
+⸻
+
+3. Data Storage and iCloud Sync
+
+Local Storage
+	•	All sheet music files, annotations, and settings are stored locally within the app sandbox on the user’s device.
+
+iCloud Sync (Optional)
+	•	If the user enables iCloud, the App uses Apple’s iCloud (CloudKit) to synchronize sheet music and settings across the user’s devices.
+	•	Data synced via iCloud is associated with the user’s Apple ID and managed entirely by Apple.
+	•	The developer does not operate any servers and cannot access user data stored in iCloud.
+
+The App functions normally even if iCloud is disabled.
+
+⸻
+
+4. System Permissions
+
+The App may request the following permissions only when required for specific features:
+
+4.1 Camera
 
 Purpose:
-	•	Used to scan sheet music and generate PDF files
-	•	Images are not uploaded and no facial recognition is performed
-	•	Images are processed locally only for PDF generation
+	•	Scan sheet music to generate PDF files
 
-Required:
-	•	Optional. The App remains fully functional even if this permission is denied.
+Notes:
+	•	Images are processed locally
+	•	No facial recognition is performed
+	•	No images are uploaded
+
+Required: Optional
 
 ⸻
 
-3.2 Photo Library Access
+4.2 Photo Library
 
 Purpose:
-	•	Import sheet music photos or PDF files from the local photo library
+	•	Import sheet music images or PDF files from the user’s photo library
 
-Required:
-	•	Optional. Used solely to improve file import convenience.
+Required: Optional
 
 ⸻
 
-3.3 File Access
+4.3 File Access
 
 Purpose:
-	•	Open local PDF files
-	•	Save scanned or imported sheet music as PDF files
-	•	Manage the local sheet music library
+	•	Open, save, and manage local PDF files
+	•	Maintain the local sheet music library
 
-Required:
-	•	Core functionality. All file operations are performed locally on the device.
+Required: Core functionality
+
+All file access occurs locally on the device.
 
 ⸻
 
-4. No Advertising or Tracking
+5. No Advertising or Tracking
 
 The App:
 	•	❌ Displays no advertisements
-	•	❌ Does not integrate any third-party analytics SDKs (such as Umeng, ByteDance, Facebook SDK, etc.)
+	•	❌ Uses no third-party analytics or advertising SDKs
 	•	❌ Does not use IDFA
-	•	❌ Does not perform any form of cross-site or cross-app tracking
+	•	❌ Does not perform cross-app or cross-site tracking
 
 ⸻
 
-5. Third-Party Services
+6. Third-Party Services
 
-The App does not integrate any third-party services, including but not limited to:
-	•	Third-party analytics
-	•	Third-party advertising
-	•	Third-party login services
-	•	Third-party cloud storage
-	•	Content Delivery Networks (CDN)
+The App does not integrate third-party services such as:
+	•	Advertising platforms
+	•	Analytics services
+	•	Social login providers
+	•	External cloud storage services
 
-All content and data processing occur locally on the user’s device.
-
-⸻
-
-6. Data Retention and Deletion
-
-Since the App does not upload or store any user data on servers, there are no server-side data retention concerns.
-
-Users may delete local data at any time by:
-	•	Deleting sheet music files within the App
-	•	Deleting the App itself (all App data will be automatically removed by the system)
+Only Apple system services (such as iCloud, when enabled) are used.
 
 ⸻
 
-7. Children’s Privacy
+7. Data Retention and Deletion
 
-The App does not contain any content unsuitable for children and does not collect any personal information from children.
-The App may be used by minors under parental supervision.
+The App does not store user data on external servers.
+
+Users may remove their data at any time by:
+	•	Deleting sheet music or files within the App
+	•	Disabling iCloud sync
+	•	Deleting the App from their device
 
 ⸻
 
-8. Security
+8. Children’s Privacy
 
-Although the App does not transmit data over the network, we remain committed to the following security practices:
-	•	Local data is stored only within the app sandbox
-	•	Unauthorized system files are not accessed
+The App does not knowingly collect any personal information from children.
+
+SmartScore is suitable for users of all ages and may be used by minors under parental supervision.
+
+⸻
+
+9. Security
+
+The App follows standard iOS security practices:
+	•	All data is stored within the app sandbox
+	•	No unauthorized system access is performed
 	•	No background data transmission occurs
-	•	No unauthorized operations are performed
 
 ⸻
 
-9. Changes to This Privacy Policy
+10. Changes to This Privacy Policy
 
-If new features, permissions, or data handling methods are introduced in the future, this Privacy Policy will be updated accordingly.
-Updated versions will be published on the official website or via the App Store listing.
+This Privacy Policy may be updated if new features or data practices are introduced.
+Updated versions will be published via the App Store listing or the official support website.
 
 ⸻
 
-10. Contact Information
+11. Contact
 
-If you have any questions regarding this Privacy Policy or the App, please contact the developer:
+If you have questions about this Privacy Policy or the App, please contact:
 
 Developer: Roger Wang
-Email: tonndy@gmail.com
-
-We will make every effort to respond within 7 business days.
+Email: tonndy@gmail.com; wangxinyu43172@126.com
